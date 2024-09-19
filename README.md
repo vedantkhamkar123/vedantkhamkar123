@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH2LRIdB9DKK8ZzS5TVF0s2zPwvOM2ZJompg&s.jpg)](https://vedantkhamkar123.io)
+[![MasterHead](Backend.jpg)](https://vedantkhamkar123.io)
  <h1 align="center">Hi 👋, I'm Vedant Khamkar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
