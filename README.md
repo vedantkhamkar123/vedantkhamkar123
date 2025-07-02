@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **vedantkhamkar2112004@gmail.com**
+- 📫 How to reach me **vedantsk47@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
