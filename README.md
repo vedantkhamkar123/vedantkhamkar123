@@ -1,4 +1,4 @@
-[![MasterHead](68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303232313132333135333234392f536b696c6c735265717569726564746f4265636f6d65614261636b656e64446576656c6f7065722e706e67.jpg)](https://vedantkhamkar123.io)
+[![MasterHead]("C:\Users\SoNaLi\Downloads\profilegithub.png")](https://vedantkhamkar123.io)
  <h1 align="center">Hi 👋, I'm Vedant Khamkar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
